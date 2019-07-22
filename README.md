@@ -101,7 +101,7 @@ We have chosen the name ArtYourLife because it consists in an App that allows us
 ### 2.2 The functions.
 
 <p align="center">
-  <img width="400" height="300" src="process2.PNG">
+  <img width="450" height="300" src="process2.PNG">
 </p>
 
 1 INDIVIDUAL CREATIVE WORKS
@@ -119,7 +119,7 @@ This function is providing for both the creation activities (individual and coll
 ### 2.3  ArtYourLife under the SDG Target
 
 <p align="center">
-  <img width="800" height="600" src="process3.png">
+  <img width="400" height="300" src="process3.png">
 </p>
 
 Our App falls within the Target N. 4. 
@@ -134,7 +134,7 @@ In other words: A comprehensive education includes learning in the arts.
 The combination of these three activities should allow a progressive development of many abilities of the right side of the brain.
 
 <p align="center">
-  <img width="800" height="600" src="process5.PNG">
+  <img width="300" height="280" src="process5.PNG">
 </p>
 
 
@@ -147,7 +147,7 @@ The combination of these three activities should allow a progressive development
 We try to follow an intuitive architecture of our App using few buttons which have attractive and powerful colours.  
 
 <p align="center">
-  <img width="800" height="600" src="process6.png">
+  <img width="400" height="300" src="process6.png">
 </p>
 
 ### 3.1 The page in the middle  
@@ -187,7 +187,7 @@ The range of the people from 24 to 35 years feels enticed to use this platform i
 From the 5th year, we expect that a large number of interested people from 36 years and over could use our App, still on the popularity reached in the first four years.
 
 <p align="center">
-  <img width="800" height="600" src="process7.PNG">
+  <img width="800" height="400" src="process7.PNG">
 </p>
 
 
