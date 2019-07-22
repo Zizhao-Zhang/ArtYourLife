@@ -3,11 +3,9 @@ ARTS EDUCATION:LEARNING BY CREATING AND CO-CREATING WITH YOUR ART
 
 # Table of contents
 
+<a href="#i3">1. PROBLEM</a>
 <a href="#i3">
-   1. PROBLEM
-</a>
-<a href="#i3">
-   1.1 Current art education in China
+    -  - 1.1 Current art education in China
 </a>
     -  - <a href="#i3">1.2	Developing the problem for a suitable solution based on the goals</a>
     
