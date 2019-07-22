@@ -2,25 +2,25 @@
 ARTS EDUCATION:LEARNING BY CREATING AND CO-CREATING WITH YOUR ART 
 
 # Table of contents
--  - <a href="#i1">1. PROBLEM</a>
-    -  - <a href="#i2">1.1 Current art education in China</a>
+-  - <a href="#i3">1. PROBLEM</a>
+    -  - <a href="#i3">1.1 Current art education in China</a>
     -  - <a href="#i3">1.2	Developing the problem for a suitable solution based on the goals</a>
     
--  - <a href="#i4">2.SOLUTION</a>
-    -  - <a href="#i5">2.1 The App name</a>
-    -  - <a href="#i6">2.2 The functions</a>
-    -  - <a href="#i7">2.3  ArtYourLife under the SDG Target</a>
-    -  - <a href="#i8">2.4. Technological approach</a>
+-  - <a href="#i3">2.SOLUTION</a>
+    -  - <a href="#i3">2.1 The App name</a>
+    -  - <a href="#i3">2.2 The functions</a>
+    -  - <a href="#i3">2.3  ArtYourLife under the SDG Target</a>
+    -  - <a href="#i3">2.4. Technological approach</a>
    
--  - <a href="#i9">3.PROTOTYPE</a>
-    -  - <a href="#i10">3.1 The page in the middle</a>
-    -  - <a href="#i11">3.2 The first page on the left</a>
+-  - <a href="#i3">3.PROTOTYPE</a>
+    -  - <a href="#i3">3.1 The page in the middle</a>
+    -  - <a href="#i3">3.2 The first page on the left</a>
     
--  - <a href="#i12">4.USER SCENARIO</a>
+-  - <a href="#i3">4.USER SCENARIO</a>
     
--  - <a href="#i13">5.EXPECTED IMPACT</a>
+-  - <a href="#i3">5.EXPECTED IMPACT</a>
 
--  - <a href="#i14">6.REFERNECES AND PICTURE</a>
+-  - <a href="#i3">6.REFERNECES AND PICTURE</a>
 
  <div id="i1"> 
 # 1. PROBLEM.
