@@ -41,7 +41,7 @@ Also, in the rural areas there are museums where you can see classical art works
 These conditions involve two issues. First, people have not the opportunity to do many art experiences. Secondly, people have not the opportunity to get art education. 
 
 <p align="center">
-  <img width="600" height="400" src="process.PNG">
+  <img width="600" height="400" src="1.jpg">
 </p>
 
 <div id="i3"> 
@@ -106,7 +106,7 @@ We have chosen the name ArtYourLife because it consists in an App that allows us
 ### 2.2 The functions.
  </div>
 <p align="center">
-  <img width="500" height="300" src="process2.PNG">
+  <img width="500" height="300" src="2.jpg">
 </p>
 
 1 INDIVIDUAL CREATIVE WORKS
@@ -125,7 +125,7 @@ This function is providing for both the creation activities (individual and coll
 ### 2.3  ArtYourLife under the SDG Target
  </div>
 <p align="center">
-  <img width="400" height="300" src="process3.png">
+  <img width="400" height="300" src="3.jpg">
 </p>
 
 Our App falls within the Target N. 4. 
@@ -140,7 +140,7 @@ In other words: A comprehensive education includes learning in the arts.
 The combination of these three activities should allow a progressive development of many abilities of the right side of the brain.
 
 <p align="center">
-  <img width="600" height="300" src="process5.PNG">
+  <img width="600" height="300" src="4.jpg">
 </p>
 
 <div id="i8"> 
@@ -155,7 +155,7 @@ We try to follow an intuitive architecture of our App using few buttons which ha
  </div>
  
 <p align="center">
-  <img width="700" height="400" src="process6.png">
+  <img width="700" height="400" src="5.jpg">
 </p>
 
 <div id="i10"> 
@@ -199,7 +199,7 @@ The range of the people from 24 to 35 years feels enticed to use this platform i
 From the 5th year, we expect that a large number of interested people from 36 years and over could use our App, still on the popularity reached in the first four years.
 
 <p align="center">
-  <img width="400" height="200" src="process7.PNG">
+  <img width="400" height="200" src="6.jpg">
 </p>
 
 <div id="i14"> 
