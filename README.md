@@ -140,7 +140,7 @@ In other words: A comprehensive education includes learning in the arts.
 The combination of these three activities should allow a progressive development of many abilities of the right side of the brain.
 
 <p align="center">
-  <img width="500" height="500" src="4.jpg">
+  <img width="500" height="300" src="4.jpg">
 </p>
 
 <div id="i8"> 
