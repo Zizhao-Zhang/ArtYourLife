@@ -125,7 +125,7 @@ This function is providing for both the creation activities (individual and coll
 ### 2.3  ArtYourLife under the SDG Target
  </div>
 <p align="center">
-  <img width="400" height="300" src="3.jpg">
+  <img width="400" height="300" src="process3.png">
 </p>
 
 Our App falls within the Target N. 4. 
@@ -134,7 +134,7 @@ The link between Art education and Quality Education target has been highlighted
 In other words: A comprehensive education includes learning in the arts.
 
 <p align="center">
-  <img width="400" height="300" src="process4.PNG">
+  <img width="500" height="400" src="3.jpg">
 </p>
 
 The combination of these three activities should allow a progressive development of many abilities of the right side of the brain.
