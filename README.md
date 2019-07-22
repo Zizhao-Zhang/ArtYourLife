@@ -23,7 +23,7 @@ ARTS EDUCATION:LEARNING BY CREATING AND CO-CREATING WITH YOUR ART
 
 - [6.REFERNECES AND PICTURE ](#paragraph-6)
 
- <div id="i1" style="height: 600px;"> 
+ <div id="i1"> 
 # 1. PROBLEM.
   </div>  
   
