@@ -20,7 +20,7 @@ ARTS EDUCATION:LEARNING BY CREATING AND CO-CREATING WITH YOUR ART
     
 -  - <a href="#i13">5.EXPECTED IMPACT</a>
 
--  - <a href="#i13">6.REFERNECES AND PICTURE</a>
+-  - <a href="#i14">6.REFERNECES AND PICTURE</a>
 
  <div id="i1"> 
 # 1. PROBLEM.
