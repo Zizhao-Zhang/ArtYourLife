@@ -208,5 +208,3 @@ From the 5th year, we expect that a large number of interested people from 36 ye
 Reid, M. (2017). Arts Education and the SDGs, available at http://www.teachsdgs.org/blog/arts-education-and-the-sdgs (last access 17.07.2019).
 UNESCO, Road Map for Art Education - The World Conference on Arts Education: Building Creative Capacities for the 21st Century, Lisbon, 6-9 March 2006, available at http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CLT/CLT/pdf/Arts_Edu_RoadMap_en.pdf (last access 17.07.2019).
 Zeng, H. J. (2016). A Survey on Chinese Rural Art Education. Higher Education of Social Science, 10(5), 41-44, available at: http://www.cscanada.net/index.php/hess/article/view/8452 DOI: http://dx.doi.org/10.3968/8452 (last access 17.07.2019)
-
-
