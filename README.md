@@ -155,7 +155,7 @@ We try to follow an intuitive architecture of our App using few buttons which ha
  </div>
  
 <p align="center">
-  <img width="500" height="400" src="5.jpg">
+  <img width="500" height="600" src="5.jpg">
 </p>
 
 <div id="i10"> 
