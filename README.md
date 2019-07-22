@@ -4,31 +4,32 @@ ARTS EDUCATION:LEARNING BY CREATING AND CO-CREATING WITH YOUR ART
 # Table of contents
 
 - <a href="#i3">1. PROBLEM</a>
-    - [1.1 Current art education in China.](#subparagraph-a)
-    - [1.2	Developing the problem for a suitable solution based on the goals.](#subparagraph-b)
+   - <a href="#i3">1.1 Current art education in China</a>
+    -  - <a href="#i3">1.2	Developing the problem for a suitable solution based on the goals</a>
     
-- [2.SOLUTION](#paragraph-2)
-    - [2.1 The App name](#subparagraph-a)
-    - [2.2 The functions.](#subparagraph-b) 
-    - [2.3  ArtYourLife under the SDG Target](#subparagraph-c)
-    - [2.4. Technological approach](#subparagraph-d)
+-  - <a href="#i3">2.SOLUTION</a>
+    -  - <a href="#i3">2.1 The App name</a>
+    -  - <a href="#i3">2.2 The functions</a>
+    -  - <a href="#i3">2.3  ArtYourLife under the SDG Target</a>
+    -  - <a href="#i3">2.4. Technological approach</a>
+   
+-  - <a href="#i3">3.PROTOTYPE</a>
+    -  - <a href="#i3">3.1 The page in the middle</a>
+    -  - <a href="#i3">3.2 The first page on the left</a>
     
-- [3.PROTOTYPE](#paragraph-3)
-    - [3.1 The page in the middle](#subparagraph-a)
-    - [3.2 The first page on the left.](#subparagraph-b)
+-  - <a href="#i3">4.USER SCENARIO</a>
     
-- [4.USER SCENARIO](#paragraph-4)
- 
-- [5.EXPECTED IMPACT](#paragraph-5)
+-  - <a href="#i3">5.EXPECTED IMPACT</a>
 
-- [6.REFERNECES AND PICTURE ](#paragraph-6)
+-  - <a href="#i3">6.REFERNECES AND PICTURE</a>
 
  <div id="i1"> 
 # 1. PROBLEM.
   </div>  
   
+<div id="i2">   
 ### 1.1 Current art education in China.
-
+ </div>
 From the beginning of the 21st century, the Chinese government has promoted many policies for regulating different aspects of art education. So, the art education has gained a great attention in this country. 
 However, this focus has been restricted to the urban schools. In the rural areas the art education is still very weak, especially in rural primary and secondary schools. There are some areas, such as in Guangxi, Qinghai, Gansu, Jiangxi, Henan and Hainan where Art field has not the same importance of the other disciplines. This condition depends on several aspects, such as: 
 1) less resources invested in the development of art education, 
@@ -44,8 +45,9 @@ These conditions involve two issues. First, people have not the opportunity to d
   <img width="600" height="400" src="process.PNG">
 </p>
 
+<div id="i3"> 
 ### 1.2	Developing the problem for a suitable solution based on the goals.
-
+ </div>
 Our goals:
 1 Improving the art experiences
 2 Developing and improving creativity of Chinese people in the rural area
@@ -91,16 +93,19 @@ is guaranteed. “
 Based on the above, we can formulate the following question:
 How we can contribute to improve people’s creativity capacity and cultural awareness ?
 
+<div id="i4"> 
 # 2.	SOLUTION
-
+ </div>
 The solution can be represented by an App on WeChat by which users can learn art through art experiences.
 
+<div id="i5"> 
 ### 2.1 The App name.
-
+ </div>
 We have chosen the name ArtYourLife because it consists in an App that allows users to shape their life using all their personal forms of expression. Imagination takes form through the most suitable types of expression chosen by users freely. 
 
+<div id="i6"> 
 ### 2.2 The functions.
-
+ </div>
 <p align="center">
   <img width="500" height="300" src="process2.PNG">
 </p>
@@ -116,9 +121,10 @@ These experiences should allow participants learning in a passive way.
 
 3 DISCUSSION
 This function is providing for both the creation activities (individual and collaborative). The section of the discussion allows users learning in an active way. It is organised so as to stimulate the discussion based on several sub-categories, such as: look for the similarities with the artist work, look for the mistakes if the rules of the sonnet have not been complied with; guess the idea of the artist, etc.
-   
-### 2.3  ArtYourLife under the SDG Target
 
+<div id="i7"> 
+### 2.3  ArtYourLife under the SDG Target
+ </div>
 <p align="center">
   <img width="400" height="300" src="process3.png">
 </p>
@@ -138,21 +144,24 @@ The combination of these three activities should allow a progressive development
   <img width="600" height="300" src="process5.PNG">
 </p>
 
-
+<div id="i8"> 
 ### 2.4. Technological approach 
-
+ </div>
 1 For our project we use an App on WeChat. In China, WeChat is similar to WhatsApp. 
 2 To access to the WeChat, it is necessary to have an account. Basically, many Chinese people use this Application. Foreign people can use this App if they have an account. 
 
+<div id="i9"> 
 # 3. PROTOTYPE 
 We try to follow an intuitive architecture of our App using few buttons which have attractive and powerful colours.  
-
+ </div>
+ 
 <p align="center">
   <img width="700" height="400" src="process6.png">
 </p>
 
+<div id="i10"> 
 ### 3.1 The page in the middle  
-
+ </div>
 When user uses the App, he sees the page on the middle of the above picture.
 1) In the middle of the second page there is a main button which represents one of the many Art experiences to do. By pressing on this button, user can start to participate to a creative game. A new page appears where user can start to play with other users by inviting them to participate to the Art experiences. 
 Also, by dragging across the main button just the image on the button changes, everything else stays the same. Each big button in the middle of the App represents several Art experiences. For example, the main button in the middle of the second page represents one of the Art experience named 60sPoetryChallenge. 
@@ -161,13 +170,15 @@ The icon in the middle is a main page link. This icon is represented by the arro
 The third icon on the left allows user to be addressed to the third page on the right in the above picture. In this page user sees a list of categories about different sections of art experiences, such as: Visual, Music, Literature, Performance, Guide Tour, and Hands-on activities. It is about a specific icon whose function is facilitating the use of the interface by users. In these categories, users can see other creative works (individual and collective) and upload co-creative works.
 3) A search string is placed at the top of the page. Its function is allowing an immediate search of interested art sector. It is about another specific icon whose function is facilitating the use of the interface by users.
 
+<div id="i11"> 
 ### 3.2 The first page on the left.
-
+ </div>
 1) This page represents the personal sphere of the user, in which he/she can upload his/her personal creation. 
 2) A button for uploading is placed at the top of the page. In the middle of the page there is the most recent user individual creation. To the lower side of the page, there are many less recent individual creations. User can choose if share its works with others. For each personal creative works, a new page appears where users can discuss about the creative work.
 
+<div id="i12"> 
 # 4. USER SCENARIO
-
+ </div>
 This App is for everyone who feels he/she has an artistic talent in every form. So, this App can be used by everyone without regard to age.
 Our App is designed for users:
 1 who are not professional artist  
@@ -180,8 +191,9 @@ However he is studying Computer Science to get more opportunities to look for a 
 He would like to show someone his drawings, just to receive some feedback. However, he does not know how he can show these works or whether there is some platform on line that allows him to upload his drawings.
 Lihua has heard of the ArtYourLife App by his friend who follows an Art course at the University. So, he downloads the App and he creates a personal account. He discovers that in the personal page he can upload his drawings and all his works, in general. Also, by sifting through the App, he discovered that he can do some Art experiences. He tries to participate to one of those. He chooses “SEE FROM MONDRIAN’S EYES” because he is drowning to the colours. He can invite other users to play with him. He is happy because it can exercise other disciplines with other people. That is exactly what he wanted: to learn other art matter. Then, he discovers that he can discuss about the creative works with other users. So, Lihua started discussing about the similarities between their collaborative works and the Mondrian painting with other users.
 
+<div id="i13"> 
 # 5.	EXPECTED IMPACT 
-
+ </div>
 We expect that our App will be used by people having an interest on Art. We consider that many people feel they have an artistic talent. This is most likely to be apparent to the people living in rural areas, because of the little opportunities to access to the Art. So, they want to have something that can be the means to communicate. Contrary, people who have access to the Art opportunities may underestimate the purposes of the App.
 We expect a graduation about the users of our App over time. The young people will be braver than old people to use this platform to show and improve their creativity.
 The range of the people from 24 to 35 years feels enticed to use this platform in respect of the popularity reached in the first two years. 
@@ -191,9 +203,9 @@ From the 5th year, we expect that a large number of interested people from 36 ye
   <img width="400" height="200" src="process7.PNG">
 </p>
 
-
+<div id="i14"> 
 # 6.	REFERENCES
-
+ </div>
 Reid, M. (2017). Arts Education and the SDGs, available at http://www.teachsdgs.org/blog/arts-education-and-the-sdgs (last access 17.07.2019).
 UNESCO, Road Map for Art Education - The World Conference on Arts Education: Building Creative Capacities for the 21st Century, Lisbon, 6-9 March 2006, available at http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CLT/CLT/pdf/Arts_Edu_RoadMap_en.pdf (last access 17.07.2019).
 Zeng, H. J. (2016). A Survey on Chinese Rural Art Education. Higher Education of Social Science, 10(5), 41-44, available at: http://www.cscanada.net/index.php/hess/article/view/8452 DOI: http://dx.doi.org/10.3968/8452 (last access 17.07.2019)
