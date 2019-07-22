@@ -3,7 +3,7 @@ ARTS EDUCATION:LEARNING BY CREATING AND CO-CREATING WITH YOUR ART
 
 # Table of contents
 
-- [1. PROBLEM.](#paragraph-1)
+- <a href="#i3">1. PROBLEM</a>
     - [1.1 Current art education in China.](#subparagraph-a)
     - [1.2	Developing the problem for a suitable solution based on the goals.](#subparagraph-b)
     
@@ -23,7 +23,7 @@ ARTS EDUCATION:LEARNING BY CREATING AND CO-CREATING WITH YOUR ART
 
 - [6.REFERNECES AND PICTURE ](#paragraph-6)
 
-    
+ <div id="i1" style="height: 600px;"> 
 # 1. PROBLEM.
     
 ### 1.1 Current art education in China.
@@ -89,6 +89,7 @@ is guaranteed. “
 
 Based on the above, we can formulate the following question:
 How we can contribute to improve people’s creativity capacity and cultural awareness ?
+</div>  
 
 # 2.	SOLUTION
 
