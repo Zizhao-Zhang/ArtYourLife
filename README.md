@@ -134,7 +134,7 @@ In other words: A comprehensive education includes learning in the arts.
 The combination of these three activities should allow a progressive development of many abilities of the right side of the brain.
 
 <p align="center">
-  <img width="500" height="300" src="process5.PNG">
+  <img width="600" height="300" src="process5.PNG">
 </p>
 
 
@@ -187,7 +187,7 @@ The range of the people from 24 to 35 years feels enticed to use this platform i
 From the 5th year, we expect that a large number of interested people from 36 years and over could use our App, still on the popularity reached in the first four years.
 
 <p align="center">
-  <img width="600" height="300" src="process7.PNG">
+  <img width="400" height="200" src="process7.PNG">
 </p>
 
 
